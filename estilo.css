@@ -1,0 +1,36 @@
+
+
+/*método 1- aplicação de estilo atraves de ID*/
+
+#bloco1{
+    color: red; /*cor da fonte*/
+    font-size: large; /*estilo da fonte*/
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #FFFF99 /*cor do fundo*/
+    
+}
+
+/* método 2 -aplicação estilo atraves de classe*/
+
+.bloco2
+{
+    text-align: center; /*alinhamento do texto*/
+    color: #ffffff; /*cor da fonte*/
+    background-color: rgb(77, 95, 62); /*cor do fundo do bloco*/
+    font-size: 30px; 
+    margin-right: 100px;
+    margin-left: 100px;
+
+}
+
+/*método 3- aplicação de estilo direto na tag e entre {} */
+
+body {background-color:  #81da97 }
+
+h1 {color: blue; text-align: center; border-style: double} 
+
+td { border-style:groove;}
+
+img { text-align: center; margin-right: 25px; margin-left: 25px;}
+
+
