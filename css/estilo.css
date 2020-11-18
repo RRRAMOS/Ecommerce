@@ -1,0 +1,145 @@
+    body {
+        margin: 0;
+        padding: 0;
+        background-color:  #81da97
+        
+    }
+
+    h2 {
+        color: blue; text-align: center; border-style: double
+    } 
+
+
+    p img {margin-right: 350px; margin-left: 350px;}
+
+    .logo {
+        width: 150px;
+    }
+
+    #navegacao{
+    margin-left:auto;    
+    list-style :none;
+    padding-right:100px;
+
+    }
+
+    .menu{
+            display: inline-block;
+    }
+    
+    .menu a {
+        color: black;
+        text-decoration: none;
+    }
+
+    .imagem{
+        padding: 0;
+    }
+
+    .container-categoria{
+        float: left;
+        width: 150px;
+        margin-left: 20px;
+        padding-left: 15px ;
+        margin-top: 15px;
+        margin-bottom: 15px;
+        border: 5px solid blue;
+        border-radius: 5px;
+    }
+
+
+    .nav-item {
+        /* background-color:rgb(0, 128, 122) */
+    }   
+    .listaCategorias {
+        list-style: none;
+
+    }
+
+    footer {
+        display: flex;
+        text-align:center ;
+        width: 100%;
+    }
+
+    .footer p {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .produtos {
+        width: 600px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .produto {
+        width: 150px;
+    }
+
+    .produto img{
+        width: 100px;
+    }
+
+    .produto figcaption {
+        width: 100px;
+    }
+
+    .formulario-contato{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: inline-block;
+        width: 300px;
+    }
+
+
+    .form-pedidos{
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: inline-block;
+        width: 300px;
+        text-align: green;
+        border-color: green;
+        
+    }
+
+
+
+    .form-group {
+        display: block;
+        margin-left: 25px;
+        margin-top: 30px;
+    }
+
+    .formulario-contato label {
+        font-size:25px;
+        margin-right: 25px;
+
+    }
+
+    .formulario-contato input {
+        font-size:14pt;
+        height: 30px;
+
+    }
+
+    .formulario-contato textarea {
+        font-size:12pt;
+        height: 100px;
+
+    }
+
+    
+    .form-pedidos {
+        margin-left: 20px;
+        color: rgb(163, 43, 143);
+    }
+
+    .form-pedidos label{
+        display: flex;
+    }
+
+
+    .container-fluid {
+        background-color: rgb(78, 89, 248);
+        color: white
+    }
