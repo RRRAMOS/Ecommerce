@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title>Listagem</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+       
+    </head>
+    <body>
+        <div class="container mt-5">
+            <div class="card m-3">
+            <div class="card-header text-center">
+            <h3>Cadastros Efetuados</h3> 
+        </div>
+
+        <table class="table text-center">
+            
+            <tr>
+                <th scope="col">Categoria</th>
+                <th scope="col">Disciplinas</th>
+            </tr>
+            </thead>    
+            <body>
+            <% for (item of lista){%>
+                <tr>
+                <td><%= item.categoria %> </td>
+                <td><%= item.conteudo %> </td>
+                </tr>
+            <% } %>
+        </body>
+        </table>
+        <a href="/" class="btn btn mt-2 col-md-5 text-center">Novo Cadastro</a>
+    </div>
+    </div>
+    </body>
+</html>
+
+

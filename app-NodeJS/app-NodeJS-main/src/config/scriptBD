@@ -1,0 +1,20 @@
+create database projeto_node;
+
+use projeto_node;
+
+create table conteudo(
+    id_user INT auto_increment PRIMARY KEY,
+    categoria varchar (50),
+    conteudo varchar (200)
+);
+
+insert into conteudo (categoria, conteudo) values ('front-end','HTML');
+insert into conteudo (categoria, conteudo) values ('front-end','CSS');
+insert into conteudo (categoria, conteudo) values ('front-end','React');
+insert into conteudo (categoria, conteudo) values ('front-end','HTML');
+insert into conteudo (categoria, conteudo) values ('front-end','Angular');
+insert into conteudo (categoria, conteudo) values ('front-end','JavaScript');
+insert into conteudo (categoria, conteudo) values ('back-end','PHP');
+insert into conteudo (categoria, conteudo) values ('back-end','.Net');
+insert into conteudo (categoria, conteudo) values ('back-end','Node');
+
