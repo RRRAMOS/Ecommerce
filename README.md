@@ -1,5 +1,5 @@
 # Sobre
-Este repositório é dedicado a minha jornada na Recode-Pro
+Este repositório é dedicado a Recode-Pro e a minha jornada no programa de formação de Desenvolvedores FullStack.
 
 ### Meu Desempenho
 
@@ -10,4 +10,4 @@ Este repositório é dedicado a minha jornada na Recode-Pro
 https://www.recodepro.org.br  
 Organização da sociedade civil que visa transformação social e empoderamento digital por meio de ensino de tecnologia;
 
-Obrigada pelo acolhimento e dedicação a nós oferecido. 
+Obrigada pelo acolhimento e dedicação a nós oferecido <3 
