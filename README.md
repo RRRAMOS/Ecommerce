@@ -7,7 +7,7 @@ Este repositório é dedicado a Recode-Pro e a minha jornada no programa de form
 
 
 ### Agradecimento
-https://www.recodepro.org.br  
-Organização da sociedade civil que visa transformação social e empoderamento digital por meio de ensino de tecnologia;
+https://www.recodepro.org.br Organização da sociedade civil que visa transformação social e empoderamento digital  
+por meio de ensino de tecnologia;
 
 Obrigada pelo acolhimento e dedicação a nós oferecido <3 
